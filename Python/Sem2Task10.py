@@ -5,3 +5,4 @@ def min_coin_flips(coins):
 
 coins = ['H', 'T', 'T', 'H', 'H']
 print(min_coin_flips(coins)) # Выведет 2, так как нужно перевернуть две монеты T, чтобы получить все монеты в одном положении
+""
